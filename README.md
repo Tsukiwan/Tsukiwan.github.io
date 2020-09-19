@@ -1,2 +1,2 @@
 # Tsukiwan.github.io
-this is a invidual blog
+this is an invidual blog
